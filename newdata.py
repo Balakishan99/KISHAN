@@ -1,7 +1,7 @@
 #author Balakishan Molankula
-import splunklib.client as client
+import splunklib.client as client # need splunk sdk and libraries 
 
-HOST = "xx.xx.xx.xxx"
+HOST = "xx.xx.xx.xx"
 PORT = 8089
 USERNAME = "xxxxxx"
 PASSWORD = "xxxxxxxxx"
